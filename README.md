@@ -5,7 +5,7 @@ Encode to any base, 2-62, in your shell.
 
 ### Install
 
-Prebuilt binaries are available for the following archs:
+Prebuilt binaries are available for the following archs - [grab one here](https://github.com/ok-john/base/releases/tag/v1.0.0).
 
 ```
 darwin-amd64  freebsd-amd64  freebsd-arm64  linux-amd64  linux-arm64  linux-mips64    linux-ppc64    linux-s390x    windows-arm5   windows-arm7
