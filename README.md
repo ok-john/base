@@ -30,13 +30,13 @@ base works great with brace expansions, here you can
 generate bash to view every base between 2-62.
 
 ```bash
-$ echo -e "echo ok-john|./base "{2..62}"\n"
+$ echo -e "echo ok-john|base "{2..62}"\n"
 ```
 
 now run it
 
 ```bash
-$ echo -e "echo ok-john|./base "{2..62}"\n"|bash
+$ echo -e "echo ok-john|base "{2..62}"\n"|bash
 ```
 
 For example, hexadecimal:
