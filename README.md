@@ -3,6 +3,23 @@
 Encode to any base, 2-62, in your shell.
 
 
+### Install
+
+Prebuilt binaries are available for the following archs:
+
+```
+darwin-amd64  freebsd-amd64  freebsd-arm64  linux-amd64  linux-arm64  linux-mips64    linux-ppc64    linux-s390x    windows-arm5   windows-arm7
+darwin-arm64  freebsd-arm5   freebsd-arm7   linux-arm5   linux-arm7   linux-mips64le  linux-ppc64le  windows-386    windows-arm6
+freebsd-386   freebsd-arm6   linux-386      linux-arm6   linux-mips   linux-mipsle    linux-riscv64  windows-amd64  windows-arm64
+```
+
+Or compile from source, after git cloning run:
+
+```bash
+    $ make
+    $ make install
+```
+
 ### Usage
 
 ```bash
